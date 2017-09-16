@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reddit Client</string>
+    <string name="authenticating">Authenticating&#8230;</string>
+    <string name="author">Author: %1s</string>
+    <string name="hoursAgo">%d hours ago</string>
+    <string name="numComments">%d comments</string>
+    <string name="saveImage">Save image</string>
+    <string name="saving">Saving&#8230;</string>
+    <string name="imageSaved">Image is saved successfully</string>
+    <string name="error">Error</string>
+    <string name="requestFailed">Request failed</string>
+</resources>
